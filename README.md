@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yasuo
 - 👀 I’m interested in Hacking and other things
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently learning Programming and pentesting and Ddos
 - 📫 Years Old. Live in Philippines.14 
